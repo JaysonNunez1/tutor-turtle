@@ -1,0 +1,11 @@
+.container{
+
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap into multiple rows */
+    justify-content: center; /* Center the cards horizontally */
+
+}
+
+.cardContainer {
+    max-height: 500px;
+}

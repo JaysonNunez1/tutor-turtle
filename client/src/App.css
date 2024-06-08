@@ -1,0 +1,33 @@
+#root {
+  min-height: 100%;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: grid;
+  grid-template-rows:auto;
+  min-height:100vh
+}
+.app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  background-color: #6be2b8;
+  color: #213547;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+}
+#root {
+  background-color: #6be2b8;
+  
+}
+
+.testimonialText{
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}

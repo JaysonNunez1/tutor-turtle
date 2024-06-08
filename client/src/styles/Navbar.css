@@ -1,0 +1,23 @@
+
+
+#logo-text {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.navbar-brand{
+  background-color:  #6be2b8;
+}
+
+#navbarBasicExample {
+  background-color: #6be2b8;
+}
+
+.button {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bold;
+}
